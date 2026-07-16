@@ -12,7 +12,7 @@ Goal: Understand and exploit Identification, Authentication, Authorization, and 
 
 ## Objective
 
-## This lab demonstrates how identification, authentication, authorization, and accountability (IAAA) failures can allow attackers to access unauthorized data, impersonate privileged users, and avoid detection due to insufficient logging and monitoring.
+This lab demonstrates how identification, authentication, authorization, and accountability (IAAA) failures can allow attackers to access unauthorized data, impersonate privileged users, and avoid detection due to insufficient logging and monitoring.
 
 ## Steps Taken
 
